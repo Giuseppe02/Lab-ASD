@@ -1,20 +1,20 @@
 # Corso di Algoritmi e Strutture Dati.
-## Descrizione file .rar, per una migliore visione passaare alla sezione code :>
 ```
-Consegne.rar
-    |__consegna1
-       |__consegna1.cpp
-       |__consegna1.exe
-       |__data.txt
-       |__output.txt
-    |__consegna2
-        |__bozza.cpp
-        |__tree.dot
-        |__tree2.dot
-        |__graph.pdf
-        |__graph2.pdf
-    |__consegna3
-       |__bozza.cpp
-       |__a.exe
-       |__confrontiQuick_Heap.xlsx
+.
+├── Consegne.rar
+└──consegna1
+   └──consegna1.cpp
+   └──consegna1.exe
+   └──data.txt
+   └──output.txt
+└──consegna2
+    └──bozza.cpp
+    └──tree.dot
+    └──tree2.dot
+    └──graph.pdf
+    └──graph2.pdf
+└──consegna3
+   └──bozza.cpp
+   └──a.exe
+   └──confrontiQuick_Heap.xlsx
 ```
