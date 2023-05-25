@@ -1,5 +1,6 @@
-Corso di Algoritmi e Strutture Dati.
-Descrizione file .rar, per una migliore visione passaare alla sezione code :>
+# Corso di Algoritmi e Strutture Dati.
+## Descrizione file .rar, per una migliore visione passaare alla sezione code :>
+```
 Consegne.rar
     |__consegna1
        |__consegna1.cpp
@@ -16,3 +17,4 @@ Consegne.rar
        |__bozza.cpp
        |__a.exe
        |__confrontiQuick_Heap.xlsx
+```
