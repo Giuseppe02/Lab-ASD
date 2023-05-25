@@ -1,4 +1,6 @@
 # Corso di Algoritmi e Strutture Dati.
+Le consegne sono all'interno del file LAB ASD.rar
+
 ```
 .
 ├── Consegne.rar
