@@ -3,7 +3,7 @@ Le consegne sono all'interno del file LAB ASD.rar
 
 ```
 .
-├── Consegne.rar
+├── LAB ASD.rar
 └──consegna1
    └──consegna1.cpp
    └──consegna1.exe
